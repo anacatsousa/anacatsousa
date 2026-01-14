@@ -2,7 +2,6 @@
 
 
 - 👩🏽‍💻 I’m a Front-End Developer
-- 📚 I’m doing a Front-End Engineer course
 - 🎨 Fun fact: I love to draw watercolor illustrations
 
 
@@ -19,7 +18,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/catarina-sousa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:catarinaasou@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:catarinasousa.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.behance.net/anacatarinasousa"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 
   
