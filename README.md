@@ -18,8 +18,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/catarina-sousa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:catarinasousa.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:catarinasousa.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.behance.net/anacatarinasousa"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-
-  
+  <a href = "https://dribbble.com/anacatsousa"><img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
 </div>
